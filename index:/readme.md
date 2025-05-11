@@ -1,2 +1,3 @@
-https://hyperms.com
-https://www.pulsesupply.com/sim-bank/remote-sim-bank-sbk-32
+- https://hyperms.com
+- https://hyperms.com/sms/
+- https://www.pulsesupply.com/sim-bank/remote-sim-bank-sbk-32
